@@ -9,8 +9,7 @@ tags:
 
 # Swift Mastering
 
-Catatan belajar Swift & iOS yang dalam, bukan ringkasan dokumentasi.
-Formatnya mengikuti gaya [gobackend.dev](https://gobackend.dev) — artikel deep-dive per topik,
+Catatan belajar Swift & iOS yang dalam, bukan ringkasan dokumentasi — artikel deep-dive per topik,
 roadmap belajar, dan bank soal interview — tapi untuk Swift dan platform Apple.
 
 **Prinsip catatan ini:**
